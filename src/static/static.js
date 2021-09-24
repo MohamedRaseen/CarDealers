@@ -1,7 +1,6 @@
 const appConstants = {
     GET_CAR_DEALERS: 'GET_CAR_DEALERS',
     UPDATE_CAR_DEALERS: 'UPDATE_CAR_DEALERS',
-
     CAR_DEALERS_DATA:[
             {
             "showRoomName":"Honda 1",
