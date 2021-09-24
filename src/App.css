@@ -55,7 +55,7 @@
   border: 1px solid #2189ff;
 }
 
-.submit .btn-danger{
+.submit .btn-danger:hover{
   background-color: #fff;
   color: red;
 }
