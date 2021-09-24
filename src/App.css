@@ -43,3 +43,8 @@
 .card .card-body{
   border-top: 1px solid lightgray;
 }
+.submit .btn-secondary {
+  color: #fff;
+  background-color: #2189ff;
+  border: none;
+}

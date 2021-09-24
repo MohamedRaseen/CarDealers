@@ -29,7 +29,7 @@ const Filter = ({brands, locations, callBack, clear}) =>{
             
             <div className='submit'>
                 <div>
-                    <Button color="primary" onClick={() => callBack(brand, location)}>Find Dealers</Button>{' '}
+                    <Button className='submit-btn' onClick={() => callBack(brand, location)}>Find Dealers</Button>{' '}
                     <Button color="danger" onClick={clear}>Clear</Button>{' '}
                 </div>
             </div>
