@@ -1,6 +1,7 @@
 .app-container h2 {
   text-align: center;
   background-color: #dfdfdf;
+  padding: 15px;
 }
 .filter-container{
   padding: 30px;
