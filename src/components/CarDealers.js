@@ -1,7 +1,4 @@
-import {
-    Card, CardImg, CardText, CardBody,
-    CardTitle, CardSubtitle
-} from 'reactstrap';
+import { Card, CardImg, CardText, CardBody,CardTitle, CardSubtitle } from 'reactstrap';
 import React from 'react';
 
 const CarDealers = ({ dealers }) => {
