@@ -46,5 +46,16 @@
 .submit .btn-secondary {
   color: #fff;
   background-color: #2189ff;
-  border: none;
+  border: 1px solid transparent;
+}
+
+.submit .btn-secondary:hover {
+  color: #2189ff;
+  background-color: #fff;
+  border: 1px solid #2189ff;
+}
+
+.submit .btn-danger{
+  background-color: #fff;
+  color: red;
 }
