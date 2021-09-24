@@ -59,3 +59,10 @@
   background-color: #fff;
   color: red;
 }
+.dealers h4{
+  text-align: center;
+  background-color: #dfdfdf;
+}
+.dealers-list{
+  border: 1px solid #dfdfdf;
+}
