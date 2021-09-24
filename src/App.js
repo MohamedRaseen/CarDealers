@@ -16,8 +16,6 @@ const getFilterOptionsOnKey = (carDealers, key) =>{
     return options;
 }
 
-
-
 const App = () =>{
 
     const carDealers = useSelector(state => state.carDealers), dispatch = useDispatch();
