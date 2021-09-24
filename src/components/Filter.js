@@ -1,8 +1,7 @@
 import { Input, Button} from 'reactstrap';
-import {useState} from 'react';
+import { useState } from 'react';
 
 const Filter = ({brands, locations, callBack, clear}) =>{
-
 
    const [brand, setBrand] = useState(),[location, setLocation] = useState();
 
@@ -38,5 +37,4 @@ const Filter = ({brands, locations, callBack, clear}) =>{
        </div>
    )
 }
-
 export default Filter;
